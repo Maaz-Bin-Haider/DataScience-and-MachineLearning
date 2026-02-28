@@ -1,0 +1,49 @@
+# Data Manipulation & Analysis
+numpy
+pandas
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+bokeh
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Deep Learning
+tensorflow
+torch
+keras
+
+# Natural Language Processing
+nltk
+spacy
+gensim
+transformers
+
+# Data Handling & Utilities
+scipy
+joblib
+pickle-mixin
+tqdm
+dask
+pandas-profiling
+
+# Web Scraping / APIs
+requests
+beautifulsoup4
+lxml
+selenium
+
+# Interactive / Notebook
+jupyter
+notebook
+jupyterlab
+ipython
+ipywidgets
+nbconvert
+nbformat
