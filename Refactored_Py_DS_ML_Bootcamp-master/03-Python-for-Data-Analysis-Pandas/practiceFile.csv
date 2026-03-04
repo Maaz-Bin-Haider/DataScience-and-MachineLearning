@@ -1,7 +1,7 @@
 EmployeeID,Name,Age,Department,Salary,JoiningDate,City,PerformanceScore
 E101,Ali Khan,28,IT,75000,3/15/2021,Karachi,4.5
 E102,Sara Ahmed,32,HR,68000,7/22/2019,Lahore,4.2
-E103,Usman Tariq,26,Finance,72000,1/10/2022,Islamabad,4.0
+E103,Usman Tariq,26,Finance,72000,1/10/2022,Islamabad,4
 E104,Ayesha Malik,30,Marketing,70000,11/5/2020,Karachi,3.8
 E105,Hassan Raza,35,IT,90000,6/18/2018,Lahore,4.7
 E106,Noor Fatima,29,Finance,65000,9/25/2021,Islamabad,3.9
@@ -10,7 +10,7 @@ E108,Zainab Ali,27,HR,64000,8/14/2022,Lahore,3.7
 E109,Omar Farooq,33,IT,88000,12/3/2017,Islamabad,4.6
 E110,Maria Khan,24,Finance,60000,2/20/2023,Karachi,3.5
 E111,Ahmed Rauf,36,Marketing,95000,10/11/2016,Lahore,4.8
-E112,Sana Javed,28,HR,67000,5/19/2021,Islamabad,4.0
+E112,Sana Javed,28,HR,67000,5/19/2021,Islamabad,4
 E113,Talha Iqbal,29,IT,77000,3/8/2020,Karachi,4.3
 E114,Hira Nadeem,34,Finance,82000,9/27/2018,Lahore,4.4
 E115,Saad Qureshi,30,Marketing,73000,12/15/2019,Islamabad,4.1
